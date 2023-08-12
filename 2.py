@@ -1,4 +1,4 @@
-             #TIME
+             #TIME ( 21:15:30 )
 
 class Time :
 
@@ -11,4 +11,14 @@ class Time :
     def time_to_second ( self ) :
         ...
 
-    
+    def add ( self , time1 , time2 ) :
+        ...
+
+    def subtraction ( self , time1 , time2 ) :
+        ...
+
+    def rest_of_the_day ( self , time ) :      #zaman baqi munde az ruz
+        ...
+
+    def day_position ( self , time ) :          #sobh,zohr,shab,.....
+        ...
