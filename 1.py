@@ -1,4 +1,4 @@
-            #FRACTION 
+            #FRACTION ( 1/2 )
 
 class Fraction :
 
