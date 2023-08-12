@@ -1,4 +1,4 @@
-print (" FRACTION ")
+            #FRACTION 
 
 class Fraction :
 
