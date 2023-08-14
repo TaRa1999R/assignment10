@@ -7,7 +7,6 @@ class Date :
         self.day = ruz
         self.month = mah
         self.year = sal
-        self.joda_konande = "/"
 
     #methods
     def season ( self , date ) :                         #che mahi az sal

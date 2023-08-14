@@ -5,7 +5,6 @@ class Fraction :
     def __init__ ( self , up , down ) :
         #properties
         self.numerator = up
-        self.define_line = "/"
         self.denominator = down
 
     #methods
